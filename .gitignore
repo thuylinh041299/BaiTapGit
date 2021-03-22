@@ -33,6 +33,13 @@
 *.out
 *.app
 *.i*86
+*.vs/
+*.bin/
+*.vs/
+*.obj/
+bin/
+vs/
+obj/
 *.x86_64
 *.hex
 
